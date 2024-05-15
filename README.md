@@ -56,8 +56,6 @@ Emotet is a sophisticated malware with strong capabilities to hide itself and ex
   - Size: 128 KiB
   - SHA256: 0c54b630d6a714a8c6d01acc9bb78df18597d68cfd39c1daea58155a2cbf5b65
 
-## License
-This repository is licensed under the MIT License.
 
 ---
 
